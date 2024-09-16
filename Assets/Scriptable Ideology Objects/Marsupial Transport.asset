@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac075794b92e9ba46aaf0b5e431fe139, type: 3}
+  m_Name: Marsupial Transport
+  m_EditorClassIdentifier: 
+  Details:
+    Name: Marsupial Transport
+    Description: "Kangaroos - indigenous to Australia and New Guinea - are one of
+      the national animals of Australia (another being Emus).  As such, Kangaroos
+      are subject to jokes primarily from non-Australian individuals. One such joke
+      is the idea that Australians \u201Cride kangaroos to school\u201D. If you want
+      an Australian to roll their eyes, ask them this question. One of the reasons
+      for this joke is the fact that female Kangaroos have pouches to house their
+      young (colloquially called a Joey). \r\nKangaroos are an Australian icon, due
+      to them not being found in any other place in the world, and their place in
+      Australian\u2019s national identity.\r\n"
+  AbilityText: Agents can travel without needing to wait for the next turn.
+  Iconography:
+    Icon: {fileID: 21300000, guid: 30a75c097386e5b4997cad3c1495c070, type: 3}
+  Colours:
+    MainColour: {r: 0.8705883, g: 0.31764707, b: 0, a: 1}
+    SecondaryColour: {r: 0.654902, g: 1, b: 0.93725497, a: 1}
+  Stats:
+    InstantTravel: 1
+    NeighbouringInfluenceMultiplyer: 1
+    InfluenceMultiplyer: 1
+    DiscoverNeighbours: 0
+    CreateAgentMultiplyer: 1
+  IsInUse: 0

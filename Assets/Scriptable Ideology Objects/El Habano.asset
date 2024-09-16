@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac075794b92e9ba46aaf0b5e431fe139, type: 3}
+  m_Name: El Habano
+  m_EditorClassIdentifier: 
+  Details:
+    Name: El Habano
+    Description: "The famous Cuban cigar is one of Cuba\u2019s leading exports as
+      of 2021, so much so that they accounted for half a billion dollars in 2017
+      in revenue for the Cuban Government. Such a cigar sees demand from all over
+      the world, even prompting tourists to go to Cuba. Even before the United States
+      declared its damaging trade embargo to Cuba, John F. Kennedy ordered 1200 Cuban
+      cigars, for what purpose is unknown."
+  AbilityText: Neighbouring influence increased by 50%
+  Iconography:
+    Icon: {fileID: 21300000, guid: a779f20853f6ec84684da042f5f6ca36, type: 3}
+  Colours:
+    MainColour: {r: 0.9622642, g: 0.049928807, b: 0.15647158, a: 1}
+    SecondaryColour: {r: 0.70980394, g: 0.07058824, b: 0, a: 1}
+  Stats:
+    InstantTravel: 0
+    NeighbouringInfluenceMultiplyer: 1.5
+    InfluenceMultiplyer: 1
+    DiscoverNeighbours: 0
+    CreateAgentMultiplyer: 1
+  IsInUse: 0

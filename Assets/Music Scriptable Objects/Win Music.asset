@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9251a1a4bd3b9c40be10ddb770b0306, type: 3}
+  m_Name: Win Music
+  m_EditorClassIdentifier: 
+  MusicTracks:
+  - {fileID: 8300000, guid: a3310218cf9038643b0bd42f206ae154, type: 3}

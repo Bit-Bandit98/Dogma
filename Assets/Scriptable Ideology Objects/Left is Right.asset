@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac075794b92e9ba46aaf0b5e431fe139, type: 3}
+  m_Name: Left is Right
+  m_EditorClassIdentifier: 
+  Details:
+    Name: Left is Right
+    Description: "It can be difficult to gauge how many left handers exist today,
+      but it can be deduced that they make up 10-20% of the world population (as
+      of 2021), thus being a minority.\r\nLeft handers - solely because they are
+      left handed - were often shunned by society, and were thought to be agents
+      of Satan himself. This phenomena can be found from the Middle ages, where left
+      handers were suspected of being witches. Particular items today often have
+      a right hand bias, leading to awkward use of them by left handed people.\r"
+  AbilityText: Influence action effectiveness increased by 150%
+  Iconography:
+    Icon: {fileID: 21300000, guid: ce932a463fae86b43bdfed167ed72710, type: 3}
+  Colours:
+    MainColour: {r: 0.59607846, g: 1, b: 0.58431375, a: 1}
+    SecondaryColour: {r: 0.227451, g: 0.5176471, b: 0.64705884, a: 1}
+  Stats:
+    InstantTravel: 0
+    NeighbouringInfluenceMultiplyer: 1
+    InfluenceMultiplyer: 1.5
+    DiscoverNeighbours: 0
+    CreateAgentMultiplyer: 1
+  IsInUse: 0
